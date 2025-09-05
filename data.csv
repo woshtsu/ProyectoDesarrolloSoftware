@@ -1,0 +1,10 @@
+Producto,Cantidad,Unidad,Uso,Notas
+Plancha de Drywall (12mm),15,Unidades,"Revestimiento de muros y cielos",Considerar 1.5 planchas por metro cuadrado
+Perfil Metalico (Montante),30,Unidades,"Estructura vertical del muro",Se usan cada 40 cm
+Perfil Metalico (Solera),10,Unidades,"Estructura horizontal del muro",Para piso y techo
+Tornillos de Punta Fina (Drywall),5,Cajas,"Fijación de planchas al perfil",Caja de 1000 unidades
+Cinta de Papel para Juntas,2,Rollos,"Refuerzo de uniones de planchas",Rollo de 75 metros
+Masilla o Compuesto para Juntas,5,Galones,"Rellenado y acabado de juntas",Secado rápido
+Tornillos de Marco,1,Bolsa,"Fijación de solera al piso/techo",Para perfiles de 25mm
+Lija de Grano Fino,10,Hojas,"Acabado final de masilla",Grano 180 o 220
+Esquinero Metálico,5,Unidades,"Refuerzo de esquinas externas",Evita golpes y quiebres
