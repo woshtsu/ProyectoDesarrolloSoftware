@@ -10,4 +10,13 @@
         <maven.compiler.release>24</maven.compiler.release>
         <exec.mainClass>com.mycompany.proyectodeprueba.ProyectoDePrueba</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <!-- jsoup HTML parser library @ https://jsoup.org/ -->
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.18.3</version>
+            <type>jar</type>
+        </dependency>
+    </dependencies>
 </project>
